@@ -5,7 +5,7 @@
 
 ---
 
-![Lead Discovery Engine dashboard showing scored leads](screenshots/dashboard.png)
+![Lead Discovery Engine dashboard showing scored leads](screenshots/dashboard.webp)
 
 ---
 
@@ -39,7 +39,7 @@ The extension runs a full discovery-to-CRM pipeline inside Chrome:
 - **CSV round-trip** — results can be exported and re-imported with status updates,
   so the tool can sit alongside a spreadsheet workflow instead of replacing it.
 
-![Lead detail panel with five-dimension score breakdown](screenshots/lead-detail.png)
+![Lead detail panel with five-dimension score breakdown](screenshots/stats.webp)
 
 ## Why it was a genuinely hard build
 
